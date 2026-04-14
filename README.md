@@ -22,7 +22,7 @@ This funnel analysis evaluates user behavior across the full purchase journey be
 
 ---
 
-## 📌 One‑Sentence Executive Takeaway
+## 📌 Executive Takeaway
 
 **The funnel is highly efficient beyond the initial view → cart stage, with strong purchase intent, fast decision cycles, and high revenue efficiency driven primarily by organic traffic.**
 
