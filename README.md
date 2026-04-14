@@ -112,3 +112,9 @@ funnel-analysis/
 
 ---
 
+## 🙏 Credits & Inspiration
+This project was inspired by the YouTube tutorial:
+**“<Tutorial Title>” by Lore So What**  
+Link: https://www.youtube.com/watch?v=U-JlXWDqvco&t=251s
+
+---
