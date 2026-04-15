@@ -84,7 +84,7 @@ This funnel analysis evaluates user behavior across the full purchase journey be
 funnel-analysis/  
 │  
 ├── data/  
-│   └── sample_data.csv  
+│   └── user_events.csv  
 │  
 ├── sql/  
 │   └── funnel_queries.sql  
