@@ -31,7 +31,7 @@ This funnel analysis evaluates user behavior across the full purchase journey be
 ## 📈 Key Insights
 
 - 4,579 users viewed the page; 1,416 (31%) added an item to their cart — the primary drop‑off point.  
-- Cart → checkout conversion is strong at **71%**, showing high intent once users add an item.  
+- Cart → checkout conversion is strong at **71%**, showing high intent once users add an item to the cart.  
 - Checkout → payment drops **19%**, and payment → purchase drops only **8%**, indicating an efficient checkout flow.  
 - Organic traffic drives **41%** of visitors, followed by social and paid channels.  
 - Average time from view → cart is **11 minutes**; cart → purchase adds another **13 minutes**, totaling ~25 minutes.  
