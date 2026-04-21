@@ -79,7 +79,6 @@ This funnel analysis evaluates user behavior across the full purchase journey be
 
 ## 📁 Folder Structure
 
-**Folder Structure**
 
 funnel-analysis/  
 │  
