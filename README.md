@@ -13,7 +13,8 @@ This project analyzes user behavior across an e‑commerce purchase funnel using
 
 ## 📊 Dashboard Preview
 
-<img width="1603" height="901" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/f3f69c93-71fd-4f3f-8d16-034d61ff36f5" />
+<img width="1478" height="830" alt="Dashboard" src="https://github.com/user-attachments/assets/265d8266-5786-4997-a70a-a4d95f914342" />
+
 
 ---
 
